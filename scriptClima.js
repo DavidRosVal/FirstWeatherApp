@@ -42,5 +42,4 @@ let mostrarDatos = response => {
     datosClima.appendChild(temperaturaInfo)
     datosClima.appendChild(descripcionInfo)
 
-    datosClima.style.paddingTop = '1.5rem'
 }
